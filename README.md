@@ -3,3 +3,11 @@ La ventaja técnica de usar constructores es que se puede reutilizar el código,
 
 ///// EJERCICIO 2 /////
 this hace referencia a un objeto que se está ejecutando dentro del método, por eso mismo es que puede acceder a todos los atributos y métodos sin ningún tipo de complicación. Cada objeto tiene sus propiedades específicas pero el this lo que hace es "seleccionar" o tener en cuenta la que se está ejecutando en la actualidad.
+
+///// EJERCICIO 3 /////
+Que la clase estudiante sabe todo lo que lo compone, entiende cada uno de sus atributos y puede manipularlos de manera acorde a sus necesidades. Hay principio de responsabilidad única, todo lo que pertenece a estudiante está dentro de él.
+
+///// EJERCICIO 4 /////
+Sin control de estado el sistema haría el préstamo y quedaría un registro donde el usuario se llevó un libro que en realidad nunca le pudieron dar porque no había una disponibilidad real.
+
+///// EJERCICIO 5 /////
