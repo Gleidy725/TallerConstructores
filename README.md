@@ -11,3 +11,4 @@ Que la clase estudiante sabe todo lo que lo compone, entiende cada uno de sus at
 Sin control de estado el sistema haría el préstamo y quedaría un registro donde el usuario se llevó un libro que en realidad nunca le pudieron dar porque no había una disponibilidad real.
 
 ///// EJERCICIO 5 /////
+Más que una ventaja es una necesidad, a fin de cuentas, si se va a registrar a 100 usuarios, la idea es que ellos lo hagan por sí mismo y no que tengan que llamar al equipo de desarrollo para que ingresen los datos uno a uno. Es extremadamente importante que haya esa disponibilidad.
